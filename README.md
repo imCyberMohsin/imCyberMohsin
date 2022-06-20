@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Instagram/Twitter.
 - 🤔 I’m looking for help with Documentation Works.
 - 💬 Ask me Anything about Programming And Ethical-Hacking.
-- 📫 How to reach me: [Instagram- im_mohsin20](https://www.instagram.com/im_mohsin20/) , [Twitter- mohsin127_](https://twitter.com/mohsin127_)
+- 📫 How to reach me: [Instagram- im_mohsin20](https://www.instagram.com/im_mohsin20/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Do Gaming More Than Coding.
 
