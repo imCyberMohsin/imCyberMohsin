@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imcybermohsin&label=Profile%20views&color=0e75b6&style=flat" alt="imcybermohsin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imcybermohsin" alt="imcybermohsin" /></a> </p>
-
 - 🔭 I’m currently working on **Web-Projects.**
 
 - 🌱 I’m currently learning **Android Development.**
@@ -29,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/mohsin127_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsin127_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohsin ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin ansari" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohsin34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohsin34" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19390247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19390247" height="30" width="40" /></a>
 <a href="https://instagram.com/im_mohsin20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_mohsin20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@lh127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lh127" height="30" width="40" /></a>
 </p>
