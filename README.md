@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/mohsin ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin ansari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19390247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19390247" height="30" width="40" /></a>
 <a href="https://instagram.com/im_mohsin20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_mohsin20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@lh127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Mohsin Ansari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@lh127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lh127" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
