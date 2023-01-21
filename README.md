@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imcybermohsin&label=Profile%20views&color=0e75b6&style=flat" alt="imcybermohsin" /> </p>
 
-- 🔭 I’m currently working on **Web-Projects.**
-
-- 🌱 I’m currently learning **Android Development.**
+- 🔭 I’m currently working on **Front-End-Projects.**
 
 - 👯 I’m looking to collaborate on **Instagram/Twitter**
 
-- 🤝 I’m looking for help with **Front-End.**
+- 🤝 I’m looking for help with **Back-End.**
 
 - 👨‍💻 All of my projects are available at [NULL](NULL)
 
