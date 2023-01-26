@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Programming And Ethical-Hacking.**
 
-- 📫 How to reach me **[Instagram- im_mohsin20](https://www.instagram.com/im_mohsin20/)**
-
 - 📄 Know about my experiences [NULL](NULL)
 
 - ⚡ Fun fact **I Do Gaming More Than Coding.**
