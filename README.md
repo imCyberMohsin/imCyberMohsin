@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imcybermohsin&label=Profile%20views&color=0e75b6&style=flat" alt="imcybermohsin" /> </p>
 
-# 🔭 I’m currently working on **Front-End-Projects.**
+- 🔭 I’m currently working on **Front-End-Projects.**
 
-# 👨‍💻 All of my projects are available Here.
+- 👨‍💻 All of my projects are available Here.
 
-# 💬 Ask me about **Programming And Ethical-Hacking.**
+- 💬 Ask me about **Programming And Ethical-Hacking.**
 
-# ⚡ Fun fact **I Do Gaming More Than Coding.**
+- ⚡ Fun fact **I Do Gaming More Than Coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
