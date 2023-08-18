@@ -1,5 +1,5 @@
 <h1>Hi! I'm Mohsin Ansari</h1>
-<h3>Front-End Web-Developer</h3>
+<h3>Frontend Web-Developer</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=imcybermohsin&label=Profile%20views&color=0e75b6&style=flat"
