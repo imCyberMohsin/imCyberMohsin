@@ -44,9 +44,9 @@
             alt="mysql" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="imcybermohsin" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="imcybermohsin" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
