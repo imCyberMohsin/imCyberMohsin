@@ -44,6 +44,10 @@
             alt="mysql" width="40" height="40" /> </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="imcybermohsin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/mohsin127_" target="blank"><img align="center"
@@ -59,7 +63,3 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="im_mohsin20" height="30" width="40" /></a>
 </p>
-<img
-    src="https://github-readme-stats.vercel.app/api?username=imCyberMohsin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&locale=en&layout=compact" alt="imcybermohsin" /></p>
