@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Front-End-Projects.**
 
-- 👨‍💻 All of my projects are available Here.
+- 💬 You Can Ask me about **Tech & Programming.**
 
-- 💬 Ask me about **Programming And Ethical-Hacking.**
-
-- ⚡ Fun fact **I Do Gaming More Than Coding.**
+- ⚡ Fun fact **I Do Gaming More frequently Than Coding.**
 
 
 
