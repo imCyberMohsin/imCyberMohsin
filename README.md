@@ -52,22 +52,6 @@
             width="40" height="40" /> </a> 
 </p>
 
-<h3 align="left">&nbsp;Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/mohsin127_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mohsin127_" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/mohsin ansari" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mohsin ansari" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19390247" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="19390247" height="30" width="40" /></a>
-    <a href="https://instagram.com/im_mohsin20" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="im_mohsin20" height="30" width="40" /></a>
-</p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="imcybermohsin" /></p>
