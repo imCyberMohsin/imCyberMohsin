@@ -5,9 +5,9 @@
         src="https://komarev.com/ghpvc/?username=imcybermohsin&label=Profile%20views&color=0e75b6&style=flat"
         alt="imcybermohsin" /> </p>
 
-- 🔭 I’m currently working on **Front-End-Projects.**
+- 🔭 I’m currently working on **Web Development Projects.**
 
-- 💬 You Can Ask me about **Tech & Programming.**
+- 💬 You Can Ask me about **Web-dev & Tech.**
 
 - ⚡ Fun fact **I Do Gaming More frequently Than Coding.**
 
