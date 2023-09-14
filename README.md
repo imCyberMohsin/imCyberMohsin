@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects.**
 
-- 💬 You Can Ask me about **Web-dev & Tech.**
+- 💬 You Can Ask me about **Web-Dev & Tech.**
 
 - ⚡ Fun fact **I Do Gaming More frequently Than Coding.**
 
