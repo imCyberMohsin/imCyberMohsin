@@ -49,5 +49,5 @@
 
 <div align="left">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="imcybermohsin" />  
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" />
+<!--         <img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" /> -->
 </div>
