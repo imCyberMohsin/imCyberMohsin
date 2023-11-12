@@ -20,14 +20,14 @@
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
         <a href="#" target="_blank">
+                <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+        </a>
+        <a href="#" target="_blank">
                 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
         </a>
 <!--         <a href="#" target="_blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a> -->
-        <a href="#" target="_blank">
-                <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-        </a>
 </div>
 
 <hr/>
@@ -48,6 +48,6 @@
 <hr/>
 
 <div align="left">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imcybermohsin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="imcybermohsin" />  
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcybermohsin&theme=dracula&layout=compact" />  
 <!--         <img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" /> -->
 </div>
