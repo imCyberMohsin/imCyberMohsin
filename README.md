@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects.**
 
-- 💬 You Can Ask me about **Web-Dev & Tech.**
+- 💬 You Can Ask me about **Web-Dev, Tech & DSA**
 
 - ⚡ Fun fact **I Do Gaming More frequently Than Coding.**
   
