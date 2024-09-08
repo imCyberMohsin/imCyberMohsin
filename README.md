@@ -19,7 +19,7 @@
         <a href="https://www.linkedin.com/in/mohsin-ansari127/" target="_blank">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        <a href="#" target="_blank">
+        <a href="https://leetcode.com/u/Mohsin127/" target="_blank">
                 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
         </a>
         <a href="#" target="_blank">
@@ -32,16 +32,18 @@
 
 <hr/>
 
-<h3 align="left">⚒️Languages and Tools🛠️</h3>
+<h3 align="left">SKILLS</h3>
 <div align"left">
         <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=c,java,python,bash,js" />
+                <img src="https://skillicons.dev/icons?i=c,java,python,js,typescript" />
                 <br>
                 <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind" />
                 <br>
-                <img src="https://skillicons.dev/icons?i=php,nodejs,express,mongodb,mysql" />
+                <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
                 <br>
-                <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
+                <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+                <br>
+                <img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
         </a>
 </div>
 
