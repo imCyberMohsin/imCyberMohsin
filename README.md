@@ -15,13 +15,13 @@
 </p>
         
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working @ **HCLTech**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently building **Personal Web Projects**
 
 - 👨‍💻 All of my projects are available [Here](https://mohsinportfolio127.netlify.app)
 
-- 💬 Ask me about **DSA and DEV**
+- 💬 Ask me about **DSA, DEV & IT**
 
 - ⚡ Fun fact **I Do Gaming More frequently Than Coding.**
 
@@ -56,13 +56,13 @@
                 <br>
                 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
                 <br>
-                <img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
+                <img src="https://skillicons.dev/icons?i=aws,netlify,vercel,azure" />
         </a>
 </div>
 
 <hr/>
 
 <div align="left">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcybermohsin&theme=dracula&layout=compact" />  
+<!--         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcybermohsin&theme=dracula&layout=compact" />   -->
 <!--         <img align="center" src="https://github-readme-stats.vercel.app/api?username=imcybermohsin&show_icons=true&theme=dracula&locale=en" alt="imcybermohsin" /> -->
 </div>
